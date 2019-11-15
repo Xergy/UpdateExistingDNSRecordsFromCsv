@@ -1,0 +1,5 @@
+Name,IPAddress,ZoneName,ComptureName
+IAMTest1,10.10.11.222,agile.devops
+IAMTest2,10.10.12.222,agile.devops
+IAMTest3,10.10.13.222,agile.devops
+IAMTest4,10.10.14.222,agile.devops
